@@ -42,5 +42,6 @@ The project directory is structured as follows:
 ## Contributing
 Contributions are welcome! Please fork the repository and open a pull request with your changes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Screenshot of file structure
+![image](https://github.com/user-attachments/assets/e6349f81-b156-4e8c-822b-c3db455fa87e)
+
